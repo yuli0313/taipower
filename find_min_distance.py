@@ -39,3 +39,4 @@ if __name__ == "__main__":
     df.round(2).to_csv("./data/mini_dist2.csv")
 
     #test line
+    #test 1
